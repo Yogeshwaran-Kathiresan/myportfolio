@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/myportfolio/static/css/main.e91a073d.css",
+    "main.js": "/myportfolio/static/js/main.86bd79a5.js",
+    "static/media/about.png": "/myportfolio/static/media/about.619ff0b319a55d0c05b1.png",
+    "static/media/hero.png": "/myportfolio/static/media/hero.f14f30c6d01a97df04f6.png",
+    "static/media/resume.jpg": "/myportfolio/static/media/resume.40d9ec3d0701d254f50f.jpg",
+    "static/media/weather_img.jpg": "/myportfolio/static/media/weather_img.348541a72846850849bf.jpg",
+    "static/media/quiz_img.jpg": "/myportfolio/static/media/quiz_img.4802a89b907742fd896d.jpg",
+    "static/media/todo_img.jpg": "/myportfolio/static/media/todo_img.a72a021230cce5e8942c.jpg",
+    "static/media/Yogeshwaran-CV.pdf": "/myportfolio/static/media/Yogeshwaran-CV.6de50a3c6fcd421272b9.pdf",
+    "index.html": "/myportfolio/index.html",
+    "main.e91a073d.css.map": "/myportfolio/static/css/main.e91a073d.css.map",
+    "main.86bd79a5.js.map": "/myportfolio/static/js/main.86bd79a5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e91a073d.css",
+    "static/js/main.86bd79a5.js"
+  ]
+}
